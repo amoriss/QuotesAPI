@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amori\\Original\\QuoteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|c:\\users\\amori\\original\\quoteapi\\quoteapi\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|solutionrelative:quoteapi\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|c:\\users\\amori\\original\\quoteapi\\quoteapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|solutionrelative:quoteapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Services\\QuoteService.cs",
+              "RelativeDocumentMoniker": "QuoteAPI\\Services\\QuoteService.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Services\\QuoteService.cs",
+              "RelativeToolTip": "QuoteAPI\\Services\\QuoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:22:27.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "QuoteAPI\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Models\\Quote.cs",
+              "RelativeToolTip": "QuoteAPI\\Models\\Quote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:20:41.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
