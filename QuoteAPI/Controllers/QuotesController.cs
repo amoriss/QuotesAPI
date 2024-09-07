@@ -1,10 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using QuoteAPI.Services;
 
 namespace QuoteAPI.Controllers;
+[ApiController]
+[Route("api/[controller]")]
 public class QuotesController : Controller
 {
-    public IActionResult Index()
+    private readonly QuoteService _quoteService;
+    public QuotesController(QuoteService quoteService)
     {
-        return View();
+        _quoteService = quoteService;
+    }
+
+    [HttpGet]
+    public IActionResult Get()
+    {
+        var quotes = _quoteService.GetQuotes();
+        return Ok(quotes);
     }
 }

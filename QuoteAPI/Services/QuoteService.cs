@@ -18,5 +18,9 @@ public class QuoteService
         new Quote {Statement = "I don’t care what they say about me. I just want to be great."}
 
     };
+    public IEnumerable<Quote> GetQuotes()
+    { 
+        return Quotes; 
+    }
 
 }

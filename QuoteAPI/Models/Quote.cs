@@ -1,6 +1,9 @@
-﻿namespace QuoteAPI.Models;
+﻿using System.Text.Json.Serialization;
+
+namespace QuoteAPI.Models;
 
 public class Quote
 {
-    public string Statement { get; set; }
+    [JsonPropertyName("statement")]
+    public string? Statement { get; set; }
 }

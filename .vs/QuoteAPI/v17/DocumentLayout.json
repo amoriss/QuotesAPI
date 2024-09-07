@@ -9,6 +9,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|c:\\users\\amori\\original\\quoteapi\\quoteapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|solutionrelative:quoteapi\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|c:\\users\\amori\\original\\quoteapi\\quoteapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|solutionrelative:quoteapi\\controllers\\quotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|c:\\users\\amori\\original\\quoteapi\\quoteapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|solutionrelative:quoteapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|c:\\users\\amori\\original\\quoteapi\\quoteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE86A78-55C3-4DE8-B838-4BCE2D4CC493}|QuoteAPI\\QuoteAPI.csproj|solutionrelative:quoteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuoteAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuoteAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T18:15:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QuoteAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Program.cs",
+              "RelativeToolTip": "QuoteAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:49:56.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuotesController.cs",
+              "DocumentMoniker": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Controllers\\QuotesController.cs",
+              "RelativeDocumentMoniker": "QuoteAPI\\Controllers\\QuotesController.cs",
+              "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Controllers\\QuotesController.cs",
+              "RelativeToolTip": "QuoteAPI\\Controllers\\QuotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:29:04.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +83,7 @@
               "RelativeDocumentMoniker": "QuoteAPI\\Services\\QuoteService.cs",
               "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Services\\QuoteService.cs",
               "RelativeToolTip": "QuoteAPI\\Services\\QuoteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T17:22:27.143Z",
               "EditorCaption": ""
@@ -45,7 +96,7 @@
               "RelativeDocumentMoniker": "QuoteAPI\\Models\\Quote.cs",
               "ToolTip": "C:\\Users\\amori\\Original\\QuoteAPI\\QuoteAPI\\Models\\Quote.cs",
               "RelativeToolTip": "QuoteAPI\\Models\\Quote.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T17:20:41.923Z",
               "EditorCaption": ""

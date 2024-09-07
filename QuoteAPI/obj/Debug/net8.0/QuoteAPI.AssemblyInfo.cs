@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuoteAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54bfced1a5d0fc93c2b90acdbe173b8499c5fb5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuoteAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuoteAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
